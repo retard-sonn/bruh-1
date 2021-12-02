@@ -1,0 +1,11 @@
+<html> 
+	<head> 	
+		<title> Never gonna give u up </title> 
+	</head>
+	<body> 	
+		<h1>u have been rick rolled</h1> 
+		<p> this is first time i use html so idk</p>
+		<img src="rick astley.gif"> </img> 
+	</body>
+</html>
+		
